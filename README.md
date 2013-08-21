@@ -1,4 +1,13 @@
-gradle-cookbook
-===============
+# gradle cookbook
 
-A cookbook to install gradle using chef
+# Requirements
+
+# Usage
+
+# Attributes
+
+# Recipes
+
+# Author
+
+Author:: YOUR_NAME (<YOUR_EMAIL>)
